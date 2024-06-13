@@ -27,6 +27,7 @@ I used the Python programming language (version 3.10.8) to carry out this projec
 ## References
 - [How to Choose a feature selection method for machine learning](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 - [Feature Selection Methods and How to Choose them](https://neptune.ai/blog/feature-selection-methods)
+- [Feature Selection Using XGBoost](https://medium.com/@dhanyahari07/feature-selection-using-xgboost-f0622fb70c4d)
 
 ## Author
 - Emmanuel Afrifa
